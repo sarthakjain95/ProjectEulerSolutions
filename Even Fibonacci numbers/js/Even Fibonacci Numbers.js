@@ -11,10 +11,10 @@ function GetEvenFibboSum(limit){
 	let num1=0, num2=1, sum=0;
 	for(let fibbo=0;;){
 		fibbo = num1 + num2;
+		if(fibbo>limit) break;
 		num1 = num2;
 		num2 = fibbo;
-		if( fibbo%2==0 ) sum+=fibbo;	
-		if(fibbo>limit) break;
+		if( fibbo%2==0 ) sum+=fibbo;
 	}
 	return sum;
  }
