@@ -27,6 +27,7 @@ function GetPrimeFactors(num) {
 		pFacto.push(num);
 	}
 	console.log("All Prime Factors are:",...pFacto);
+	// return Math.max.apply( Math , pFacto );
 	return pFacto[pFacto.length-1];
 }
 
