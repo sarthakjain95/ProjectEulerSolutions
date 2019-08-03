@@ -1,7 +1,7 @@
 
 // https://github.com/sarthakjain95/ProjectEulerSolutions
-// Problem 3
-// Largest Prime Factor
+// Problem 4
+// Largest palindrome product
 
 // I wish you try attempting the problem yourself before
 // looking at the solution.
