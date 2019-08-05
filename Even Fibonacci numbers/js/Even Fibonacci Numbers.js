@@ -19,7 +19,5 @@ function GetEvenFibboSum(limit){
 	return sum;
  }
 
-console.log("Sum is", GetEvenFibboSum(4000000) );
-
 // ProjectEulerSolutions
 // Sarthak Jain
