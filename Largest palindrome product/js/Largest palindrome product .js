@@ -27,7 +27,5 @@ function getLargestPalindrome(n){
 	return largest;
 }
 
-getLargestPalindrome(3);
-
 // ProjectEulerSolutions
 // Sarthak Jain
