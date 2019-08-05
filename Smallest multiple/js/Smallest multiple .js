@@ -2,7 +2,7 @@
 // Problem 5
 // Smallest Multiple
 
-// I wish you try attempting the problem yourself before
+// Please try attempting the problem yourself before
 // looking at the solution.
 // ...
 
