@@ -3,7 +3,7 @@
 // Problem 9
 // Special Pythagorean triplet
 
-// I wish you try attempting the problem yourself before
+// Please try attempting the problem yourself before
 // looking at the solution.
 // ...
 
