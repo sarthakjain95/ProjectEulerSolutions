@@ -3,7 +3,7 @@
 // Problem 7
 // 10001st prime
 
-// I wish you try attempting the problem yourself before
+// Please try attempting the problem yourself before
 // looking at the solution.
 // ...
 
