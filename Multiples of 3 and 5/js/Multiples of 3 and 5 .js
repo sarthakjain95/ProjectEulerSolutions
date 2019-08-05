@@ -6,7 +6,6 @@
 // I wish you try attempting the problem yourself before
 // looking at the solution
 
-
 function GetSumOfMultiples(limit=1000){
 	let sum = 0;
 	for(let i=0;i<limit;i++){
@@ -14,10 +13,6 @@ function GetSumOfMultiples(limit=1000){
 	}
 	return sum;
 }
-
-
-console.log(GetSumOfMultiples(1000));
-
 
 // ProjectEulerSolutions
 // Sarthak Jain
