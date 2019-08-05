@@ -3,7 +3,7 @@
 // Problem 1
 // Multiples of 3 and 5
 
-// I wish you try attempting the problem yourself before
+// Please try attempting the problem yourself before
 // looking at the solution
 
 function GetSumOfMultiples(limit=1000){
